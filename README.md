@@ -1,7 +1,7 @@
 # simple-survey-builder
  Lightweight text-based python project to build and run methodological surveys or systematic reviews.
  
- This is a command-line text-based tool in order to smooth out workflows for methodological (or other) surveys. Run *run_survey.py* to see a demo survey with sample data and a simple configuration.
+ This is a command-line text-based tool in order to streamline workflows for methodological (or other) surveys. Run *run_survey.py* to see a demo survey with sample data and a simple configuration.
 
 ### Quickstart
 1. **Generate the inventory**- This is the list of files that is to be surveyed. All PDF files should be in a folder called sample-data, then the *generate_inventory_py* file can be used to generate *inventory.csv*
